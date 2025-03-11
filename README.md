@@ -27,6 +27,7 @@ AI Code Guru is an **AI-powered code review web application** that analyzes your
    ```bash
    git clone https://github.com/vaishali-gupta32/AI-Code-Guru.git
    cd AI-Code-Guru/frontend
+   ```
 2. Install dependencies:
    ```bash
    npm install
@@ -36,10 +37,10 @@ AI Code Guru is an **AI-powered code review web application** that analyzes your
 
 🔹 Backend Setup
   Navigate to the backend directory:
-   ```bash
+    ```bash
     cd ../backend
     npm install
-   ```
+    ```
 4. Start the backend server with nodemon:
     ```bash
     npx nodemon server.js
@@ -53,5 +54,3 @@ Upload your code via the web interface.
 AI Code Guru will analyze the code, highlight errors, and suggest improvements.
 Review the suggestions and apply necessary changes.
 
-## 📜 License
-This project is licensed under the MIT License.
